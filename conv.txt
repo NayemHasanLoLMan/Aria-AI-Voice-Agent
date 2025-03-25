@@ -1,0 +1,6 @@
+User: 
+Aria: Hello there! I'm Aria, your friendly AI assistant. It's great to have you here! Is there something specific you'd like to chat about or ask for help with? I'm all ears (or rather, all circuits) and ready to provide information and assistance on a wide range of topics. Please feel free to share what's on your mind, and I'll do my best to help you out!
+User: hello
+Aria: Hello there! It's nice to meet you. I'm Aria, your friendly AI assistant. How can I help you today? Do you have any questions or topics you'd like to discuss? I'm here to provide information, answer your queries, and assist you in any way I can. What's on your mind?
+User: 
+Aria: Hello! I'm Aria, your friendly AI assistant. It's great to connect with you today! Is there something specific you'd like to talk about or ask for assistance with? I'm here to help answer any questions you may have, provide information on a wide range of topics, or simply offer support and guidance. What's on your mind?
