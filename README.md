@@ -60,12 +60,16 @@ Copy
 Edit
 
 🎙️ User Speaks
+
      ↓
 🎧 Deepgram → Converts Speech to Text (STT)
+
      ↓
 🤖 OpenAI → Understands Intent + Generates Reply
+  
      ↓
 🗣 ElevenLabs → Converts Text to Natural Voice (TTS)
+     
      ↓
 🔁 Streams back to user (Web/App interface)
 
